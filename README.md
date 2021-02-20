@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on cross-platform and native applications
-- 🌱 Currently learning Flutter and React Native
+- 🌱 Learning Flutter and React Native
 - 📫 Reach me: <a href="https://www.linkedin.com/in/bruno-oliveira-43231a1b0/">My LinkedIn Profile</a>
 <!--
 **brunooss/brunooss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
