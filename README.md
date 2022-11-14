@@ -2,8 +2,13 @@
 
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on cross-platform and native applications
-- 🌱 Learning Flutter and React Native
+- 🔭 I’m currently working on cross-platform/native applications and robust full stack solutions
+- ⚡ My skills:
+  - Cross-platform app development with Flutter, Ionic & Xamarin
+  - Android native app development with Java/Kotlin
+  - Web development with React, HTML, CSS & Javascript
+  - Back-end development with Firebase & Node.js
+  - UI Design with Figma & InVision Studio
 - 📫 Reach me: <a href="https://www.linkedin.com/in/bruno-oliveira-43231a1b0/">My LinkedIn Profile</a>
 <!--
 **brunooss/brunooss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
